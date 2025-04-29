@@ -1,8 +1,6 @@
 1. What is the Customer Average Order Value across all the customers
 2. Identify top 5 customers whose average order value is above the overall average
 3. What are the top 3 product sub categories these top 5 high-value customers are buying the most?
-4. Also add category column to this data
-5. What is the customer lifetime value (CLV) of these top customers?
-6. Compare the average profit margin per segment per region
-7. Break the profit margin in Consumer segment and central region further by category
-
+4. What is the customer lifetime value (CLV) of these top customers?
+5. Compare the average profit margin per segment per region
+6. Break the profit margin in Consumer segment and central region further by category
